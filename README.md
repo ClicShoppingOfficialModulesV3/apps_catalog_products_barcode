@@ -1,48 +1,27 @@
-# apps_catalog_products_barcode
+# apps_report_stats_newsletter_no_account
 
-This apps allow to display a code bar inside in your products admin and Catalog in the product description 
+This apps allow you to identify the customers subscribed to anonymous newsletter.
 
-Some configuration can be used
-- C128
-- C25
-- MSI
-- EAN
-- UPC
-- C39
-- Codabar
-- ...
+On the catalog you have a specific web page  allow the customer to subscribe at the anonymous newsletter
 
-This module contains
+If an anonymous customer become a customer, the email is transferred in the newsletter  and deleted for anonymous newsletter
 
-    The language files in English and French
-    The css file in French and English
-    The module
+Important Note :
 
-Via the installation system administration ClicShopping
+Copy the apps_report_stats_newsletter_no_account.json into ClicShopping/Work/Cache/Github
 
-Technical Prerequisites: None
+licence  : GPL 2 - MIT
 
-License : GPL 2 - MIT
+Install :
 
-Modules:
+http://monsite/myAdmin/index.php?A&Report\StatsNewsletterNoAccount
 
-    Compatibility: >= version 3.0
-    Multi languages
+Activate the module in Report
 
-Recommendation and documentation specific use : 
-The module is installed in the Default template. If you have another template, you must copy yhr sources files inside your new template.
+See Marketplace for all informations
+link to marketplace : https://www.clicshopping.org/forum/files/file/39-apps-report-customer-anonymous-newsletter/
 
-Implementation:
-
-    Activate the module in admin : http://localhost/clicshopping_test/Shop/ClicShoppingAdmin/index.php?A&Catalog\ProductsBarCode
-
-    Activate the module in shop : https://monsite/myAdmin/modules.php?set=modules_products_info
-
-    Copy the apps_catalog_products_barcode.json into ClicShopping/Work/Cache/Github (manual installation)
-    
-Marketplace link : https://www.clicshopping.org/forum/files/file/163-apps-catalog-products-barcode/
-
-All informations about the ClicShopping
+ All informations about the ClicShopping
 
 Community : https://www.clicshopping.org
 
@@ -52,4 +31,8 @@ Official add on : https://github.com/ClicShoppingOfficialModulesV3
 
 Community add on : https://github.com/ClicShoppingV3Community
 
-trademark License info : https://www.clicshopping.org/forum/trademark/
+trademark License info : https://www.clicshopping.org/forum/trademark/ 
+
+![noaccount](https://github.com/ClicShoppingOfficialModulesV3/apps_report_stats_newsletter_no_account/blob/master/ModuleInfosJson/no_account.png)
+
+
