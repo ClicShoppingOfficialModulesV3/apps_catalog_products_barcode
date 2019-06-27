@@ -34,8 +34,9 @@ The module is installed in the Default template. If you have another template, y
 
 Implementation:
 
-Install the module in admin : http://localhost/clicshopping_test/Shop/ClicShoppingAdmin/index.php?A&Catalog\ProductsBarCode
-Activate the module for the shop : Design / Products Description 
+Activate the module in admin : http://localhost/clicshopping_test/Shop/ClicShoppingAdmin/index.php?A&Catalog\ProductsBarCode
+
+Activate the module in shop : https://monsite/myAdmin/modules.php?set=modules_products_info
 
 Copy the apps_catalog_products_barcode.json into ClicShopping/Work/Cache/Github (manual installation)
     
