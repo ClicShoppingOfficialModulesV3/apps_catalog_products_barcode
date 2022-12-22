@@ -1,0 +1,2 @@
+text_products_barcode = Barcode
+text_edit = Edit

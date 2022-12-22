@@ -1,0 +1,2 @@
+text_products_barcode = Code Barre
+text_edit = Editer

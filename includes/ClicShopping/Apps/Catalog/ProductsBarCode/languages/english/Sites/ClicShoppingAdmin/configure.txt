@@ -1,0 +1,1 @@
+module_pb_short_title = Product BarCode

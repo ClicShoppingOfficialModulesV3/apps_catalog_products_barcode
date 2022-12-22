@@ -1,0 +1,3 @@
+module_products_info_code_bar = Souhaitez-vous afficher le code barre du produit ?
+module_products_info_code_bar_description = Affiche le code barre du produit dans la page de description du produit
+module_products_info_code_bar_text = Code barre :
